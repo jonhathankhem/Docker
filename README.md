@@ -1,6 +1,6 @@
 # Docker
 
-1. Place the folder "Billing_Manager" under C: drive.
+1. Place the zip "Billing_Manager.zip" under C: drive. Unzip it under C: drive directly.
 2. Go to "C:\Billing_Manager\docker-setup" which has the setup file.
 3. Execute below commands:
     docker-compose up -d
